@@ -2,3 +2,10 @@
 .DS_store
 .history
 .vscode
+README.md
+
+#Ignore all in the following directory
+/*
+
+# Only include the filter directory
+!printer_mods/nateb16/THE_FILTER
